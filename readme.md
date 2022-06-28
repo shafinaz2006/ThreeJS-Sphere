@@ -1,4 +1,4 @@
-# Three.js Starter
+# Three.js Sphere
 Courtesy of Bruno Simon of https://threejs-journey.xyz/
 
 ## Setup
@@ -15,4 +15,7 @@ npm run dev
 # Build for production in the dist/ directory
 npm run build
 ```
+
+## Final page screen shot
+
 ![Alt text](FinalPage.png?raw=true "Final Page")
