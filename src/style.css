@@ -1,20 +1,25 @@
-*
-{
-    margin: 0;
-    padding: 0;
-}
 
 html,
-body
-{
+body {
     height: 100vh;
     font-family: 'Poppins';
+    background: rgb(24, 24, 24);
 }
 
-.webgl
-{
-    position: fixed;
+.webgl {
+    position: absolute;
     top: 0;
     left: 0;
     outline: none;
+    mix-blend-mode: exclusion;
+}
+.container {
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: white;
+    font-size: 3rem;
+    text-transform: uppercase;
+
 }

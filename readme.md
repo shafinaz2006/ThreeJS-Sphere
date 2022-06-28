@@ -15,3 +15,4 @@ npm run dev
 # Build for production in the dist/ directory
 npm run build
 ```
+![Alt text](FinalPage.png?raw=true "Final Page")
